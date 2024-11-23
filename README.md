@@ -73,17 +73,15 @@ Sentiment analysis helps businesses understand customer feedback and make data-d
 	•	Check the output plots and evaluation metrics generated during training.
 
 ## Future Work
-
-	•	Expand the dataset to include more nuanced sentiments like neutral or mixed.
-	•	Experiment with advanced NLP techniques like transformers for better classification accuracy.
-	•	Implement active learning to refine annotations dynamically.
+- **Dataset Expansion:** Include more nuanced sentiments like neutral or mixed to enhance classification depth.
+- **Advanced Techniques:** Experiment with state-of-the-art NLP models like transformers for improved accuracy.
+- **Active Learning:** Implement dynamic annotation refinement using active learning techniques.
 
 ## References
+- **Amazon Reviews Dataset:** Manually collected from the Amazon review section of a refurbished phone seller.
+- **Scikit-learn Documentation:** Used for Cohen’s Kappa implementation.
+- **Grammarly:** Assisted with grammar checks and rephrasing for the documentation.
 
-	•	Amazon Reviews Dataset
-	•	Scikit-learn Documentation: Cohen’s Kappa
-	•	Grammarly for grammar checks and rephrasing.
 ## Author
-    Raghav Upadhyay
-    Feel free to contribute or suggest improvements for this project!    
+- **Raghav Upadhyay:** Feel free to contribute or suggest improvements for this project!   
 
